@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="100%" alt="Chiara Razzetta – Biomedical Data Analysis, Dynamic PET, Connectomics" />
+  <img src="banner_v2.gif" width="100%" alt="Chiara Razzetta – Biomedical Data Analysis, Dynamic PET, Connectomics" />
 </p>
 
 ### Hi, I'm Chiara 👋
