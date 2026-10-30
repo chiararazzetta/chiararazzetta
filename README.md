@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="banner_v2.gif" width="100%" alt="Chiara Razzetta – Biomedical Data Analysis, Dynamic PET, Connectomics" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner_dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="banner_light.gif" />
+    <img src="banner_light.gif" width="100%" alt="Chiara Razzetta – Biomedical Data Analysis, Dynamic PET, Connectomics" />
+  </picture>
 </p>
 
 ### Hi, I'm Chiara 👋
@@ -19,7 +23,11 @@ Health Researcher at **IRCCS Ospedale Policlinico San Martino** (Genova), workin
 - **Inverse problems and biomedical signal processing**
 
 <p align="center">
-  <img src="connectome_trajectory.gif" width="520" alt="Regional connectome shifts across iterations, coloured by functional network" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="connectome_dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="connectome_light.gif" />
+    <img src="connectome_light.gif" width="520" alt="Regional connectome shifts across iterations, coloured by functional network" />
+  </picture>
   <br />
   <sub><i>Regional shifts of the brain connectome, coloured by functional network</i></sub>
 </p>
