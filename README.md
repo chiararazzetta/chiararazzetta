@@ -1,3 +1,5 @@
+<img width="737" height="666" alt="pca_trajectory_all_cohorts" src="https://github.com/user-attachments/assets/0eb5f793-1f0a-454d-8d82-90579fdd58f2" />
+<img width="561" height="510" alt="brain3d_rotation" src="https://github.com/user-attachments/assets/08ee4336-e3cd-417a-9eac-6e53abcd1494" />
 # Hi, I'm Chiara Razzetta 👋
 
 Health Researcher at **IRCCS Ospedale Policlinico San Martino** (Genova), working at the
