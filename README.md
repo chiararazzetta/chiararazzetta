@@ -21,7 +21,7 @@ Health Researcher at **IRCCS Ospedale Policlinico San Martino** (Genova), workin
 - **Brain connectomics** — graph kernels for multimodal connectome analysis
 - **Machine learning for clinical applications**
 - **Inverse problems and biomedical signal processing**
-
+<!-- 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="connectome_dark.gif" />
@@ -31,7 +31,7 @@ Health Researcher at **IRCCS Ospedale Policlinico San Martino** (Genova), workin
   <br />
   <sub><i>Regional shifts of the brain connectome, coloured by functional network</i></sub>
 </p>
-
+-->
 ---
 
 ### 🛠️ Software
