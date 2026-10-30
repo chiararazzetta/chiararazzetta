@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Chiara Razzetta – Quantitative Neuroimaging, Dynamic PET, Brain Connectomics" />
+</p>
 
-# Hi, I'm Chiara Razzetta 👋
+### Hi, I'm Chiara 👋
 
 Health Researcher at **IRCCS Ospedale Policlinico San Martino** (Genova), working at the
 **LISCOMP Lab** (Life Science COMputational Laboratory) in collaboration with the
 **MIDA group** at the Department of Mathematics (DIMA), University of Genoa.
-
-I develop mathematical and computational methods to turn biomedical images and data
-into quantitative, clinically meaningful information.
 
 ---
 
@@ -16,7 +16,11 @@ into quantitative, clinically meaningful information.
 - **Compartmental analysis of dynamic PET images** — kinetic modelling and parameter estimation
 - **Brain connectomics** — graph kernels for multimodal connectome analysis
 - **Machine learning for clinical applications**
-- **Inverse problems** and biomedical signal processing
+- **Inverse problems and biomedical signal processing**
+
+<p align="center">
+  <img src="connectome_trajectory.gif" width="520" alt="Regional connectome shifts across iterations, coloured by functional network" />
+</p>
 
 ---
 
