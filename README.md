@@ -8,7 +8,7 @@
 
 ### Hi, I'm Chiara 👋
 
-Health Researcher at **IRCCS Ospedale Policlinico San Martino** (Genova), working at the
+Health Researcher at **AOM - IRCCS Ospedale Policlinico San Martino** (Genova), working at the
 **LISCOMP Lab** (Life Science COMputational Laboratory) in collaboration with the
 **MIDA group** at the Department of Mathematics (DIMA), University of Genoa.
 
