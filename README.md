@@ -24,7 +24,7 @@ into quantitative, clinically meaningful information.
 | Project | Description | |
 |---|---|---|
 | **[parUST](https://github.com/chiararazzetta/parUST)** | Parallel parametric ultrasound transmission simulator, beam patterns on CPU or GPU | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| **WWL connectome** | Wasserstein Weisfeiler–Lehman graph kernels for multimodal brain connectome analysis, available on the [MIDA group profile](LINK_MIDA_WWL) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| **[WWL connectome](https://github.com/theMIDAgroup/WWL_connectome_kernel.git)** | Wasserstein Weisfeiler–Lehman graph kernels for multimodal brain connectome analysis, available on the [MIDA group profile]([LINK_MIDA_WWL](https://github.com/theMIDAgroup)) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 ---
 ---
 
